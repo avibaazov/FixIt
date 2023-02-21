@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">AppProject</string>
+    <string-array name="Cities">
+    <item>Select City</item>
+    <item>Agartala</item>
+    <item>Agra</item>
+    <item>Agumbe</item>
+    <item>Ahmedabad</item>
+    <item>Aizawl</item>
+    <item>Ajmer</item>
+    <item>Alappuzha Beach</item>
+    <item>Allahabad</item>
+    <item>Alleppey</item>
+    <item>Almora</item>
+    <item>Amarnath</item>
+    <item>Amritsar</item>
+    <item>Anantagir</item>
+    <item>Andaman and Nicobar Islands</item>
+    <item>Araku valley</item>
+    <item>Aurangabad</item>
+    <item>Ayodhya</item>
+    <item>Badrinath</item>
+    <item>Bangalore</item>
+    <item>Baroda</item>
+    <item>Bastar</item>
+    <item>Bhagalpur</item>
+    <item>Bhilai</item>
+    </string-array>
+    <string-array name="Categories">
+    <item>Select category</item>
+    <item>AC Repairing</item>
+    <item>Carpenter</item>
+    <item>Ceiling Repair</item>
+    <item>Cleaning</item>
+    <item>Electrician</item>
+    <item>Flooring Installation</item>
+    <item>Gardener</item>
+    <item>General Maintenance</item>
+    <item>Gutter Maintenance</item>
+    <item>Interior Designing</item>
+    <item>Maid Service</item>
+    <item>Painter</item>
+    <item>Plumber</item>
+    <item>Pest Control</item>
+    <item>Water Purification</item>
+    <item>Others</item>
+    </string-array>
+</resources>

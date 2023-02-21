@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682535272720",
+    "project_id": "myhandapp-f9111",
+    "storage_bucket": "myhandapp-f9111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682535272720:android:c5fe9822160dd623b02595",
+        "android_client_info": {
+          "package_name": "com.example.appproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682535272720-g8kvo1stufrmg83t9nav48g93f8e3vlf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appproject",
+            "certificate_hash": "976038347b9e03ee92146acd884072ba753c9f48"
+          }
+        },
+        {
+          "client_id": "682535272720-rj7bg218jub6a3cm0144nmh32kb4q7m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYIKRf8JU5GAHICquQFss5VT4FtUVdG1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682535272720-rj7bg218jub6a3cm0144nmh32kb4q7m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
